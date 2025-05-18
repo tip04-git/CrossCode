@@ -1,6 +1,4 @@
-# CrossCode
-
-# CrossCode 🔀
+# CrossCode 
 
 CrossCode is a unified, cross-language compiler that allows users to write and execute Python, JavaScript, and Bash code from a single platform. Designed with flexibility in mind, this tool streamlines multi-language development without requiring external dependencies on the user’s system.
 
@@ -41,7 +39,7 @@ CrossCode is a unified, cross-language compiler that allows users to write and e
 
 ---
 
-## 🧪 Example Use Case
+## Example Use Case
 
 # Python
 print("Hello from Python!")
@@ -52,15 +50,6 @@ console.log("Hello from JS!");
 # Bash
 echo "Hello from Bash"
 
-## Installation Steps 
 
-# Clone the repo
-git clone https://github.com/tip04-git/CrossCode.git
-
-# Navigate into the project
-cd CrossCode
-
-# Run backend
-cd backend && npm install && npm start
 
 
