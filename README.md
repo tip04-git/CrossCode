@@ -41,13 +41,13 @@ CrossCode is a unified, cross-language compiler that allows users to write and e
 
 ## Example Use Case
 
-# Python
+** Python **
 print("Hello from Python!")
 
-# JavaScript
+** JavaScript **
 console.log("Hello from JS!");
 
-# Bash
+** Bash **
 echo "Hello from Bash"
 
 
