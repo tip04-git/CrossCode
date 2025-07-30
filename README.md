@@ -1,6 +1,6 @@
-# 💻 CrossCode Streamlit – Multi-Language Code Execution Platform
+# 💻 CrossCode – Multi-Language Code Execution Platform
 
-**CrossCode Streamlit** is a web-based application that allows users to execute code in Python, JavaScript (Node.js), and Bash through an interactive Streamlit interface. This project enhances the original command-line version by providing a user-friendly graphical interface for code execution, making it ideal for learning and experimentation.
+**CrossCode** is a web-based application that allows users to execute code in Python, JavaScript (Node.js), and Bash through an interactive Streamlit interface. This project enhances the original command-line version by providing a user-friendly graphical interface for code execution, making it ideal for learning and experimentation.
 
 ---
 
@@ -33,10 +33,6 @@ crosscode/
 │ └── config.toml # Streamlit configuration settings
 
 ```
-
----
-
-
 ---
 
 ## 🧪 How It Works
@@ -63,7 +59,7 @@ crosscode/
 
 ---
 
-## 📦 Prerequisites
+### 1. Prerequisites
 
 - ✅ Python 3.7+
 - ✅ Node.js installed (`node` command should work)
@@ -73,13 +69,13 @@ crosscode/
 
 ---
 
-## ▶️ Run the Application
+### 2. Run the Application
 
 ```bash
 streamlit run src/app.py
 ```
 
-### 📝 3. Example Interaction
+### 3. Example Interaction
 
 1. Open your web browser to the Streamlit app.
 2. Select a programming language.
@@ -89,7 +85,7 @@ streamlit run src/app.py
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - **Timeouts:** If your code exceeds the set timeout, execution will be stopped and a warning will be shown.
 - **Sandboxing:** Code runs in isolated temporary files for safety.
