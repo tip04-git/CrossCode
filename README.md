@@ -63,6 +63,8 @@ python file.py
 ```
 
 ### 📝 3. Example Interaction
+
+```bash
 Welcome to the Cross-Language Compiler!
 Enter the programming language (python/bash/js): python
 Enter your python code below (type 'exit' to finish):
@@ -71,4 +73,5 @@ exit
 
 Executing Python code...
 Python Execution Output: Hello from Python!
+
 
