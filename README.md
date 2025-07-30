@@ -1,5 +1,7 @@
 # 💻 CrossCode – Multi-Language Code Execution Platform
 
+🌐 [**Try the Live App Here →**](https://crosscode-tip3007.streamlit.app/)
+
 **CrossCode** is a web-based application that allows users to execute code in Python, JavaScript (Node.js), and Bash through an interactive Streamlit interface. This project enhances the original command-line version by providing a user-friendly graphical interface for code execution, making it ideal for learning and experimentation.
 
 ---
